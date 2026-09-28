@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محافظ تایپ</string>
+    <string name="app_tagline">جلوگیری از تایپ کلمات ممنوعه در همه برنامه‌ها</string>
+    <string name="accessibility_service_name">سرویس محافظ تایپ (TypingGuard)</string>
+    <string name="accessibility_service_description">این سرویس برای پاک کردن خودکار کلمات و عبارات ممنوعه هنگام تایپ در سایر برنامه‌ها استفاده می‌شود. همه داده‌ها ۱۰۰٪ محلی و آفلاین هستند.</string>
+    <string name="enable_service_title">سرویس دسترسی (Accessibility)</string>
+    <string name="enable_service_desc">جهت جلوگیری از تایپ کلمات در سایر برنامه‌ها، این سرویس باید در تنظیمات فعال باشد.</string>
+    <string name="open_settings">ورود به تنظیمات دسترسی</string>
+    <string name="service_active">فعال و در حال محافظت</string>
+    <string name="service_inactive">غیرفعال - برای فعال‌سازی لمس کنید</string>
+    <string name="master_protection">محافظت کلی</string>
+    <string name="blocked_words_title">فهرست کلمات ممنوعه</string>
+    <string name="add_word">افزودن کلمه یا عبارت ممنوعه</string>
+    <string name="edit_word">ویرایش کلمه</string>
+    <string name="delete_word">حذف کلمه</string>
+    <string name="word_input_hint">مثال: قمار، فحش، کلمه نامناسب...</string>
+    <string name="empty_list">هنوز هیچ کلمه ممنوعه‌ای ثبت نشده است. روی دکمه + بزنید.</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="status_enabled">فعال</string>
+    <string name="status_disabled">غیرفعال</string>
+    <string name="toast_word_cleared">⚠️ محافظ تایپ: کلمه ممنوعه فوراً پاک شد!</string>
+</resources>
